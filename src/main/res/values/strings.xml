@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MathEco</string>
+    <string name="level_greeting">Choose your Level</string>
+    <string name="cate_greeting">Categories Section</string>
+    <string name="level_easy">Easy</string>
+    <string name="level_med">Medium</string>
+    <string name="level_hard">Hard</string>
+    <string name="text_light">Light Mode</string>
+    <string name="text_dark">Dark Mode</string>
+    <string name="add_button">Addition</string>
+    <string name="sub_button">Subtraction</string>
+    <string name="multi_button">Multiplication</string>
+    <string name="div_button">Division</string>
+    <string name="allin_button">All-in-one</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Wrong!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="time_up">Time is up!</string>
+</resources>

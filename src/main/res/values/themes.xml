@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MathEco" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="colorPrimaryVariant">@color/dark_blue</item>
+        <item name="colorOnPrimary">@color/med_blue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/med_blue</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/med_blue</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!--screen -->
+    <style name="SCREEN">
+        <item name="android:background">@color/dark_pink</item>
+    </style>
+    <!--text -->
+    <style name="TEXT">
+        <item name="android:background">@drawable/round_corner_rect</item>
+        <item name="android:textColor">@color/med_blue</item>
+    </style>
+    <!--text -->
+    <style name="TEXTS">
+        <item name="android:textColor">@color/med_blue</item>
+    </style>
+    <!--text result -->
+    <style name="TEXTRESULT">
+    <item name="android:backgroundTint">@color/trans_blue</item>
+    </style>
+
+    <!--button -->
+    <style name="BUTTON">
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:textColor">@color/med_blue</item>
+    </style>
+</resources>
